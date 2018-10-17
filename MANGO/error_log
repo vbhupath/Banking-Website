@@ -1,0 +1,476 @@
+[16-Jul-2018 17:47:38 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/vbhupath/public_html/mango.php on line 9
+[16-Jul-2018 17:48:25 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/vbhupath/public_html/mango.php on line 9
+[16-Jul-2018 17:49:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vbhupath/public_html/mango.php on line 37
+[16-Jul-2018 23:02:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:02:46 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:02:46 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:05:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:05:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:24:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:24:13 UTC] PHP Warning:  mysql_connect(): Access denied for user 'muser'@'localhost' (using password: YES) in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:25:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:25:43 UTC] PHP Warning:  mysql_connect(): Invalid argument in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:26:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:26:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'muser'@'localhost' (using password: YES) in /home/vbhupath/public_html/mango.php on line 2
+[16-Jul-2018 23:35:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vbhupath_musr'@'localhost' (using password: YES) in /home/vbhupath/public_html/mango.php on line 7
+[16-Jul-2018 23:36:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:36:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:36:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:40:26 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:40:26 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:40:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:40:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:40:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:40:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 11
+[16-Jul-2018 23:41:36 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 12
+[16-Jul-2018 23:41:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 12
+[16-Jul-2018 23:41:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 12
+[16-Jul-2018 23:41:50 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 12
+[16-Jul-2018 23:41:50 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 12
+[16-Jul-2018 23:41:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 12
+[16-Jul-2018 23:50:42 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 17
+[16-Jul-2018 23:50:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 17
+[16-Jul-2018 23:50:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 17
+[16-Jul-2018 23:51:05 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:05 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:32 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:55 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:55 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:51:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:52:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:52:12 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:52:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:52:52 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:52:52 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[16-Jul-2018 23:52:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:01:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 18
+[17-Jul-2018 00:01:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 18
+[17-Jul-2018 00:01:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 18
+[17-Jul-2018 00:01:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 18
+[17-Jul-2018 00:01:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 18
+[17-Jul-2018 00:01:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 18
+[17-Jul-2018 00:03:08 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:03:08 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:03:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:06:14 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:06:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:06:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:06:24 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:06:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:06:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:09:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:09:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:09:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:09:39 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vbhupath/public_html/mango.php on line 6
+[17-Jul-2018 00:09:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vbhupath/public_html/mango.php on line 6
+[17-Jul-2018 00:09:56 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:09:56 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:09:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:10:19 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vbhupath/public_html/mango.php on line 6
+[17-Jul-2018 00:10:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vbhupath/public_html/mango.php on line 6
+[17-Jul-2018 00:10:32 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:10:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:10:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 19
+[17-Jul-2018 00:12:26 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:12:26 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:12:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:12:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'vbhupath_muser'@'localhost' to database 'vbhupath_ma' in /home/vbhupath/public_html/mango.php on line 7
+[17-Jul-2018 00:13:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:13:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:13:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:14:48 UTC] PHP Parse error:  syntax error, unexpected '3306' (T_LNUMBER) in /home/vbhupath/public_html/mango.php on line 2
+[17-Jul-2018 00:15:00 UTC] PHP Parse error:  syntax error, unexpected '3306' (T_LNUMBER) in /home/vbhupath/public_html/mango.php on line 2
+[17-Jul-2018 00:15:26 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:15:26 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:15:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:16:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'muser'@'localhost' (using password: YES) in /home/vbhupath/public_html/mango.php on line 7
+[17-Jul-2018 00:17:31 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:17:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 20
+[17-Jul-2018 00:17:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 20
+[18-Jul-2018 02:36:17 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:36:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:37:09 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:37:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:37:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:37:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:49:10 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 02:49:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:08:21 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:08:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:08:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:08:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:08:53 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:08:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/vbhupath/public_html/mango.php:2) in /home/vbhupath/public_html/mango.php on line 3
+[18-Jul-2018 03:10:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 4
+[18-Jul-2018 03:11:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 4
+[18-Jul-2018 03:13:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 4
+[18-Jul-2018 03:13:44 UTC] PHP Fatal error:  Call to a member function query() on null in /home/vbhupath/public_html/mango.php on line 10
+[18-Jul-2018 03:13:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 4
+[18-Jul-2018 03:13:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/vbhupath/public_html/mango.php on line 10
+[18-Jul-2018 03:15:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:15:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:15:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:19:00 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:19:00 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:19:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:20:35 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:20:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:20:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:22:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:22:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:22:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/mango.php on line 12
+[18-Jul-2018 03:23:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/vbhupath/public_html/mango.php on line 14
+[18-Jul-2018 03:38:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 16
+[18-Jul-2018 03:40:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 16
+[18-Jul-2018 03:59:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 18
+[18-Jul-2018 04:00:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 18
+[18-Jul-2018 04:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 18
+[18-Jul-2018 04:01:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 18
+[18-Jul-2018 04:13:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 18
+[18-Jul-2018 04:15:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 17
+[20-Jul-2018 14:25:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 18
+[20-Jul-2018 14:27:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 14:36:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 14:38:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 14:56:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 14:59:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 15:12:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 15:14:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 15:14:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[20-Jul-2018 15:17:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/mango.php:8) in /home/vbhupath/public_html/mango.php on line 19
+[27-Jul-2018 00:37:36 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 00:38:07 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 00:42:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 00:50:49 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 02:30:28 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 02:44:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 14:20:21 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 14:28:09 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 14:40:32 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 15:30:51 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 15:31:11 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 15:32:57 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 15:50:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 15:51:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[27-Jul-2018 15:55:47 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[28-Jul-2018 04:01:20 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[30-Jul-2018 19:09:48 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:12:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:13:05 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:13:30 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:13:36 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:15:38 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:18:03 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:18:20 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:33:41 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:36:30 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:36:52 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[30-Jul-2018 23:38:53 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[31-Jul-2018 00:14:52 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[31-Jul-2018 00:20:04 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[31-Jul-2018 00:34:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[31-Jul-2018 00:34:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/loan.php:8) in /home/vbhupath/public_html/loan.php on line 25
+[31-Jul-2018 00:34:33 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:35:14 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:36:00 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:36:14 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:36:57 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:37:11 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[31-Jul-2018 00:37:14 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:38:52 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 28
+[31-Jul-2018 00:42:47 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 27
+[03-Aug-2018 11:03:27 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 11:03:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 11:04:21 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 11:06:04 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 11:06:12 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 27
+[03-Aug-2018 11:36:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 27
+[03-Aug-2018 11:38:35 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 27
+[03-Aug-2018 11:39:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 27
+[03-Aug-2018 11:44:20 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vbhupath/public_html/loan.php on line 20
+[03-Aug-2018 11:44:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vbhupath/public_html/loan.php on line 17
+[03-Aug-2018 11:45:16 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vbhupath/public_html/loan.php on line 17
+[03-Aug-2018 11:45:32 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vbhupath/public_html/loan.php on line 17
+[03-Aug-2018 11:46:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vbhupath/public_html/loan.php on line 25
+[03-Aug-2018 11:48:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vbhupath/public_html/loan.php on line 25
+[03-Aug-2018 11:48:34 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/vbhupath/public_html/loan.php on line 25
+[03-Aug-2018 11:48:59 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/vbhupath/public_html/loan.php on line 25
+[03-Aug-2018 11:49:02 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/vbhupath/public_html/loan.php on line 25
+[03-Aug-2018 11:50:59 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/vbhupath/public_html/loan.php on line 27
+[03-Aug-2018 11:51:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 11:52:04 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 11:52:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 12:30:49 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 12:31:43 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/credit.php on line 28
+[03-Aug-2018 12:34:13 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 12:34:17 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/credit.php on line 28
+[03-Aug-2018 12:34:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 12:34:35 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 12:34:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 12:34:45 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/credit.php on line 28
+[03-Aug-2018 12:35:53 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 12:35:56 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 12:36:03 UTC] PHP Warning:  Creating default object from empty value in /home/vbhupath/public_html/credit.php on line 18
+[03-Aug-2018 12:36:03 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/credit.php on line 28
+[03-Aug-2018 14:18:46 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 14:18:54 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:20:42 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 14:20:45 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:24:06 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 14:24:09 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:24:45 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:25:13 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:25:20 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:27:08 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:27:26 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 14:27:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:29:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vbhupath/public_html/loan.php:8) in /home/vbhupath/public_html/loan.php on line 28
+[03-Aug-2018 14:29:44 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:30:05 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:32:07 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 14:32:10 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:37:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 27
+[03-Aug-2018 14:40:37 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 14:40:40 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 33
+[03-Aug-2018 14:41:08 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 33
+[03-Aug-2018 14:41:14 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 14:41:19 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 33
+[03-Aug-2018 14:42:16 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 33
+[03-Aug-2018 14:42:28 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 14:42:31 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 33
+[03-Aug-2018 14:43:47 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 14:43:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 14:44:19 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:02:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:03:04 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:05:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:05:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:24:45 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:24:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:26:43 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:26:46 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:29:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:29:38 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:29:41 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:34:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:34:34 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[03-Aug-2018 15:35:18 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[03-Aug-2018 15:35:23 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/loan.php on line 31
+[11-Aug-2018 03:33:00 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[11-Aug-2018 03:37:31 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[13-Aug-2018 03:40:16 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/vbhupath/public_html/signup.php on line 20
+[13-Aug-2018 03:40:31 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/vbhupath/public_html/signup.php on line 20
+[13-Aug-2018 03:41:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[13-Aug-2018 03:42:21 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[18-Aug-2018 01:15:13 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:07:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:08:45 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:26:53 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:27:07 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:27:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:28:05 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:28:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[22-Aug-2018 01:29:38 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[23-Aug-2018 14:00:38 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[23-Aug-2018 14:00:46 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[23-Aug-2018 14:03:00 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[23-Aug-2018 14:12:49 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[23-Aug-2018 14:22:32 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[24-Aug-2018 16:53:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[24-Aug-2018 16:53:40 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[26-Aug-2018 00:59:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[28-Aug-2018 17:20:08 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[28-Aug-2018 19:23:00 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[28-Aug-2018 19:24:23 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[28-Aug-2018 19:34:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/vbhupath/public_html/signup.php on line 20
+[28-Aug-2018 19:36:00 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/vbhupath/public_html/signup.php on line 20
+[05-Sep-2018 22:45:44 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[05-Sep-2018 23:06:48 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[05-Sep-2018 23:37:16 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[05-Sep-2018 23:47:09 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[05-Sep-2018 23:50:36 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[06-Sep-2018 00:13:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[06-Sep-2018 03:23:21 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[06-Sep-2018 04:47:03 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 01:14:42 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 01:47:25 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 01:47:28 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 01:47:46 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 01:47:53 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 12:19:57 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 12:47:34 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 13:15:02 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 14:13:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 14:35:25 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 14:35:51 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 14:44:49 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 14:46:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 14:49:04 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:42:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:42:40 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:42:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:43:29 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:43:33 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:43:40 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:44:06 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:44:12 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:45:00 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:45:51 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[07-Sep-2018 23:52:03 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[08-Sep-2018 01:17:18 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[08-Sep-2018 01:17:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[08-Sep-2018 01:19:59 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[08-Sep-2018 04:12:35 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[08-Sep-2018 04:14:12 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[08-Sep-2018 04:15:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[14-Sep-2018 23:42:56 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[15-Sep-2018 14:25:09 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 29
+[15-Sep-2018 14:25:28 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 29
+[15-Sep-2018 14:34:32 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 29
+[15-Sep-2018 14:37:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 29
+[17-Sep-2018 21:12:07 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[17-Sep-2018 21:12:47 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[17-Sep-2018 21:13:07 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[17-Sep-2018 21:13:13 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[17-Sep-2018 21:13:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 28
+[17-Sep-2018 21:14:43 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/vbhupath/public_html/mango.php on line 22
+[18-Sep-2018 18:27:26 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/vbhupath/public_html/mango.php on line 22
+[18-Sep-2018 18:27:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vbhupath/public_html/accounts.php on line 2
+[18-Sep-2018 18:28:05 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/vbhupath/public_html/mango.php on line 22
+[18-Sep-2018 18:28:34 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/vbhupath/public_html/mango.php on line 22
+[18-Sep-2018 18:32:20 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/vbhupath/public_html/mango.php on line 20
+[18-Sep-2018 18:32:27 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/vbhupath/public_html/mango.php on line 20
+[18-Sep-2018 18:34:08 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 18:35:47 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 18:36:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 18:39:10 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 18:50:36 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 18:50:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 18:50:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 18:50:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 18:59:52 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 18:59:52 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 18:59:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 18:59:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:29:21 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 21:29:30 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 21:29:49 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:29:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:29:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:29:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:35:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 21:35:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 21:36:22 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:36:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:36:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:41:54 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:41:54 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:41:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:41:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:42:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:42:12 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:42:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:42:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:42:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:42:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:42:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:42:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:44:16 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:44:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:44:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:44:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:55:23 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 33
+[18-Sep-2018 21:55:31 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:55:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:55:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:55:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:56:55 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:56:55 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:56:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:56:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 21:57:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:57:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:57:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 21:57:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:00:17 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:00:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:00:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:00:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:01:14 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:01:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:01:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:01:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:02:03 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:02:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:02:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:02:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:03:36 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:03:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:03:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:03:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:04:14 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:04:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:04:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:04:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:05:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:05:30 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:05:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:05:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:07:15 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:07:15 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:07:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:07:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:08:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:08:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:08:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:08:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:09:22 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:09:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:09:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:09:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:09:32 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:09:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:09:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:09:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:13:16 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:13:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:13:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:13:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:24:41 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:24:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:24:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:24:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:24:59 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:24:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:24:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:24:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:26:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:26:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:26:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:26:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:33:10 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:34:06 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 34
+[18-Sep-2018 22:34:24 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:36:20 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:37:07 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:37:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:37:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 13
+[18-Sep-2018 22:37:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 15
+[18-Sep-2018 22:49:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 34
+[18-Sep-2018 22:50:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:50:11 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:50:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:50:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 16
+[18-Sep-2018 22:51:00 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:51:00 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:51:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:51:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 16
+[18-Sep-2018 22:55:19 UTC] PHP Fatal error:  Call to a member function close() on null in /home/vbhupath/public_html/mango.php on line 34
+[18-Sep-2018 22:55:31 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:55:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:55:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vbhupath/public_html/balance.php on line 14
+[18-Sep-2018 22:55:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/vbhupath/public_html/balance.php on line 16
